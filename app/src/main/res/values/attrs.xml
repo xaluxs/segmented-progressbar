@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SegmentProgressBar">
+
+        <attr name="backgroundColor" format="color"/>
+        <attr name="primaryColor" format="color"/>
+        <attr name="secondaryColor" format="color"/>
+        <attr name="thirdColor" format="color"/>
+
+
+        <attr name="primaryPercent" format="float"/>
+        <attr name="secondaryPercent" format="float"/>
+        <attr name="thirdPercent" format="float"/>
+
+
+        <attr name="maxProgress" format="float"/>
+
+        <attr name="cornerRadius" format="dimension"/>
+
+    </declare-styleable>
+    
+</resources>

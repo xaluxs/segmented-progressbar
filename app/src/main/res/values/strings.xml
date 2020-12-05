@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SegmentedProgressBar</string>
+    <string name="used_storage">Used Storage\u0020\u0020\u0020\u0020%s</string>
+    <string name="pictures">Pictures\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020%s</string>
+    <string name="downloads">Downloads\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020%s</string>
+    <string name="free_storage">Free storage\u0020\u0020\u0020\u0020\u0020\u0020\u0020%s</string>
 </resources>
